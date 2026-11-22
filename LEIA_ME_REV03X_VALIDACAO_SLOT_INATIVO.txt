@@ -1,1 +1,0 @@
-Rev.03X: Na confirmacao final da NVS, slots genericos inativos sao validados pelo campo en=0 do snapshot, usando a funcao equivalentGeneric ja existente. Slots ativos continuam com validacao completa aplicavel. COMMIT, token, fingerprint e schema inalterados. Firmware Rev.03N inalterado. Teste de hardware pendente.
