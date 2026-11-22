@@ -1,6 +1,0 @@
-SENS INSTALLER NEXT — Rev.03S / Firmware Rev.03M
-
-Base visual/configurador: Rev.03R FIX2 UTF-8.
-Cabeçalho e identificação operacional atualizados para Installer Rev.03S / Firmware Rev.03M.
-Firmware: Rev.03M com metadados genéricos model/manufacturer no transporte HTTP flat.
-Os nomes históricos dos arquivos/manifestos REV03K foram preservados para compatibilidade com os caminhos GitHub existentes.
